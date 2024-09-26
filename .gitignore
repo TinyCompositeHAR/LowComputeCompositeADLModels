@@ -6,4 +6,5 @@
 *.iml
 out
 gen
-Datasets
+Datasets/*
+!Datasets/README.md
