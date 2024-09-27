@@ -1,16 +1,16 @@
 <h1 align="center">
-    Low Cost Low Compute Composite Human Activity Recognition
+    Low-Cost Low-Compute Composite Human Activity Recognition
 </h1> 
 
 <h4 align="center">
     <a href="https://scikit-learn.org/stable/">
-        <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"  alt="whatever"/>
+        <img src="https://img.shields.io/badge/scikit--learn 1.5.1-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"  alt="whatever"/>
     </a>
     <a href="https://www.tensorflow.org/">
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"  alt="whatever">
+        <img src="https://img.shields.io/badge/TensorFlow 2.17-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"  alt="whatever">
     </a>
     <a href="https://keras.io/">
-        <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"  alt="whatever">
+        <img src="https://img.shields.io/badge/Keras 3.4.1-FF0000?style=for-the-badge&logo=keras&logoColor=white"  alt="whatever">
     </a>
 </h4>
 
@@ -47,6 +47,9 @@
             <a href="https://www.tensorflow.org/lite">
                 <img src="https://img.shields.io/badge/TFLITE-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"  alt="whatever">
             </a>
+            <a href="https://github.com/tensorflow/tflite-micro">
+                <img src="https://img.shields.io/badge/TFLITE micro-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"  alt="whatever">
+            </a>
         </h4>
         <div align="center">
             <a href="https://platformio.org/">
@@ -56,7 +59,7 @@
         </div>
 </h4>
 
-This repository contains the trained, optimized and converted models
+This repository contains the trained, optimized, and converted tf models
 to deploy them on [ESP32 S3 DEV KIT](https://docs.espressif.com/projects/esp-idf/en/stable/esp32s3/hw-reference/esp32s3/user-guide-devkitc-1.html)
 for my CSE707 semester final project.
 
