@@ -1,5 +1,5 @@
 <h1 align="center">
-    Low-Cost Low-Compute Composite Human Activity Recognition
+    Low-Cost Low-Compute Composite ADL Recognition
 </h1> 
 
 <h4 align="center">
