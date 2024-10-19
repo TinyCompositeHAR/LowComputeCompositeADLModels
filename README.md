@@ -62,6 +62,7 @@
 This repository contains the trained, optimized, and converted tf models
 to deploy them on [ESP32 S3 DEV KIT](https://docs.espressif.com/projects/esp-idf/en/stable/esp32s3/hw-reference/esp32s3/user-guide-devkitc-1.html)
 for my CSE707 semester final project.
+For inference on ESP32 and related setup, please [click here](https://github.com/TinyCompositeHAR/ESP32TFLiteCompositeHARModelDeployment).
 
 &#160;
 
